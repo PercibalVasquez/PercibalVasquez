@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=percibalvasquez&show_icons=true&locale=en&layout=compact" alt="percibalvasquez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=percibalvasquez&" alt="percibalvasquez" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=percibalvasquez&" alt="Percibal Vasquez" /></p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PercibalVasquez)](https://git.io/streak-stats)
