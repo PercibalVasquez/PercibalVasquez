@@ -19,6 +19,4 @@
 
 <p><img align="center" src="https://github.com/Murdone/" alt="my next github" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PercibalVasquez)](https://git.io/streak-stats)
-
 ![PercibalVasquez GitHub stats](https://github-readme-stats.vercel.app/api?username=PercibalVasquez&hide=contribs,prs)
